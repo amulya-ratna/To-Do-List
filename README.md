@@ -1,2 +1,2 @@
 # To-Do-List
- Code Shastra Project
+ A simple To-Do application using HTML, CSS and Javascript
